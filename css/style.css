@@ -1,0 +1,19 @@
+div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: red;
+    width: 500px;
+    height: 500px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+
+}
+
+.secondDiv {
+    background-color: blue;
+    width: 5;
+}
