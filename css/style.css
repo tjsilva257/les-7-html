@@ -10,10 +10,8 @@ div {
 img {
     width: 100px;
     height: 100px;
-
+    position: absolute;
+    left: 10px;
+    top: 80px;
 }
 
-.secondDiv {
-    background-color: blue;
-    width: 5;
-}
