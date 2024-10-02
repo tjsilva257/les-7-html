@@ -1,10 +1,11 @@
-div {
-    position: absolute;
-    top: 0px;
+div {    top: 0px;
     left: 0px;
     background: red;
-    width: 500px;
-    height: 500px;
+    width: 250px;
+    height: 250px;
+    position: sticky;
+    top: 0px;
+    left: 0px;
 }
 
 img {
@@ -15,3 +16,27 @@ img {
     top: 80px;
 }
 
+
+.secondDiv {
+    position: absolute;
+}
+
+article {
+    width: 200px;
+    text-align: left;
+    text-align: right;
+    position: absolute;
+    top: 10px;
+    margin-left: 400px;
+}
+
+p {
+    text-align: left;
+}
+
+.secondParagraph {
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    background: solid orange;
+}
